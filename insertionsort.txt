@@ -1,0 +1,18 @@
+[22,27,16,2,18,6]
+Yukarıda verilen dizinin sort türüne göre aşamalarını yazınız.
+
+Big-O gösterimini yazınız.
+
+Time Complexity: Dizi sıralandıktan sonra 18 sayısı aşağıdaki case'lerden hangisinin kapsamına girer? Yazınız.
+
+--------------------
+
+Sort türüne göre aşamalar
+[2,27,16,22,18,6]
+[2,6,16,22,18,27]
+[2,6,16,18,22,27]
+
+Big-0 Notation gösterimi
+O(n^2) Quadratic
+
+18 sayısı Average Case kapsamındadır.
